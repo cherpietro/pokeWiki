@@ -1,0 +1,10 @@
+.heroImg {
+  width: 100vw;
+  display: block;
+}
+
+.hero_content > * {
+  margin-left: 10vw;
+  margin-top: 10vh;
+  position: absolute;
+}
